@@ -6,6 +6,4 @@
 
 
 #### TODO
-- Update logo.png
 - Update intro png (600px max)
-- Update social media description
